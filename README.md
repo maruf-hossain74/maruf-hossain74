@@ -23,7 +23,7 @@
 
 <h3 align="left">My Certificates:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/certificates/d4870fb8a508" target="blank"><img align="center" src="https://github.com/maruf-hossain74/image-share/blob/main/Java_basic_certificate.png" alt="Java_basic" height="200" width="300" /></a>
+<a href="https://www.hackerrank.com/certificates/d4870fb8a508" target="blank"><img align="center" src="https://github.com/maruf-hossain74/image-share/blob/main/Java_Basic_Certificate.png" alt="Java(basic)" height="200" width="300" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-hossain74&show_icons=true&locale=en&layout=compact" alt="maruf-hossain74" /></p>
