@@ -27,6 +27,9 @@
 <a href="https://www.hackerrank.com/certificates/d4870fb8a508" target="blank"><img align="center" src="https://github.com/maruf-hossain74/image-share/blob/main/Java_Basic_Certificate.png" alt="Java(basic)" height="200" width="300" /></a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maruf-hossain74&bg_color=0D1117&color=00FF00&line=FF0000&point=00FF00&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-hossain74&show_icons=true&locale=en&layout=compact" alt="maruf-hossain74" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maruf-hossain74" alt="maruf-hossain74" /></a> </p>
