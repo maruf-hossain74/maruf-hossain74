@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf-hossain74&label=Profile%20views&color=0e75b6&style=flat" alt="maruf-hossain74" /> </p>
 
-- 🌱 I’m currently learning **Advance Of Java & Algorithms**
+- 🌱 I’m currently learning **Advance Algorithms and solving problems from different online judges.**
 
 - 💬 Ask me about **C/C++/python/Java**
 
