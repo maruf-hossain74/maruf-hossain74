@@ -11,6 +11,7 @@
 <!--https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://bd.linkedin.com/in/maruf-hossain-257554309?trk=public_post_feed-actor-name" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJeJlx-HEr29YIB4b0GVBxDSAEEmQnRNFcMQ&s" alt="Maruf Hossain" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/marufhussain745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="marufhussain745" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/marufhussain74" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="marufhussain74" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/marufhussain745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marufhussain745" height="30" width="40" /></a>
