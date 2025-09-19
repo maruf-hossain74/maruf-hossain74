@@ -10,14 +10,15 @@
 - 📫 How to reach me **marufhussain745@gmail.com**
 <!--https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg-->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://bd.linkedin.com/in/maruf-hossain-257554309?trk=public_post_feed-actor-name" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJeJlx-HEr29YIB4b0GVBxDSAEEmQnRNFcMQ&s" alt="Maruf Hossain" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/marufhussain745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="marufhussain745" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/marufhussain74" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="marufhussain74" height="50" width="60" /></a>
-<a href="https://www.hackerrank.com/marufhussain745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marufhussain745" height="30" width="40" /></a>
-<a href="https://www.stopstalk.com/user/profile/Maruf_Hossain" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="marufhussain745" height="30" width="40" /></a>
-
+<p align="CENTER">
+<a href="https://codolio.com/profile/Maruf_Hossain" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" height="30" width="30" />CODOLIO</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://bd.linkedin.com/in/maruf-hossain-257554309?trk=public_post_feed-actor-name" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJeJlx-HEr29YIB4b0GVBxDSAEEmQnRNFcMQ&s" alt="Maruf Hossain" height="30" width="30" />LINKEDIN</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/marufhussain745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="marufhussain745" height="30" width="40" />CODEFORCES</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/marufhussain74" target="blank"><img align="center" src="https://img.icons8.com/color/512/codechef.png" alt="marufhussain74" height="40" width="40" />CODECHEF</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/marufhussain745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marufhussain745" height="30" width="40" />HACKERRANK</a> <space></space>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
