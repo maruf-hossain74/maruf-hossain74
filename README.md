@@ -25,6 +25,7 @@
 
 <h3 align="left">My Certificates:</h3>
 <p align="left">
+  <a href="https://www.hackerrank.com/certificates/iframe/5903c8067371" target="blank"><img align="center" src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_Solving_intermediate.png" alt="Problem_Solving(Basic)" height="200" width="300" /></a>
   <a href="https://www.hackerrank.com/certificates/5903c8067371" target="blank"><img align="center" src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_solving(Basic).png" alt="Problem_Solving(Basic)" height="200" width="300" /></a>
 <a href="https://www.hackerrank.com/certificates/d4870fb8a508" target="blank"><img align="center" src="https://github.com/maruf-hossain74/image-share/blob/main/Java_Basic_Certificate.png" alt="Java(basic)" height="200" width="300" /></a>
 </p>
