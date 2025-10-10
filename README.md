@@ -23,6 +23,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<div align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg?style=for-the-badge)](https://wakatime.com/@maruf_hossain)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=maruf_hossain&custom_title=Weekly%20Coding%20Stats&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Wakatime Stats"/>
+</div>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marufhussain745&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/marufhussain745)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ marufhussain745?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+</div>
+
+
 <h3 align="left">My Certificates:</h3>
 <p align="left">
   <a href="https://www.hackerrank.com/certificates/iframe/5903c8067371" target="blank"><img align="center" src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_Solving_intermediate.png" alt="Problem_Solving(Basic)" height="200" width="300" /></a>
