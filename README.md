@@ -80,17 +80,11 @@
 
 ### 🏅 Certificates
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/iframe/5903c8067371" target="blank">
-    <img src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_Solving_intermediate.png" height="150" width="225" alt="Problem_Solving_Intermediate"/>
-  </a>
-  <a href="https://www.hackerrank.com/certificates/5903c8067371" target="blank">
-    <img src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_solving(Basic).png" height="150" width="225" alt="Problem_Solving_Basic"/>
-  </a>
-  <a href="https://www.hackerrank.com/certificates/d4870fb8a508" target="blank">
-    <img src="https://github.com/maruf-hossain74/image-share/blob/main/Java_Basic_Certificate.png" height="150" width="225" alt="Java_Basic"/>
-  </a>
-</p>
+| Problem Solving — Intermediate | Problem Solving — Basic | Java — Basic Certificate |
+|-------------------------------|------------------------|-------------------------|
+| [![Intermediate](https://github.com/maruf-hossain74/Achivements/blob/main/Problem_Solving_intermediate.png)](https://www.hackerrank.com/certificates/iframe/5903c8067371)<br>Token: `5903c8067371` | [![Basic](https://github.com/maruf-hossain74/Achivements/blob/main/Problem_solving(Basic).png)](https://www.hackerrank.com/certificates/5903c8067371)<br>Token: `5903c8067371` | [![Java Basic](https://github.com/maruf-hossain74/image-share/blob/main/Java_Basic_Certificate.png)](https://www.hackerrank.com/certificates/d4870fb8a508)<br>Token: `d4870fb8a508` | 
+
+
 
 ---
 
