@@ -66,20 +66,21 @@
 
 <div align="center">
   <a href="https://wakatime.com/@maruf_hossain">
-    <img src="https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg?style=for-the-badge" alt="Wakatime Badge"/>
+    <img src="https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg?style=flat-square" alt="WakaTime Badge"/>
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maruf_hossain&custom_title=Weekly%20Coding%20Stats&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Wakatime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maruf_hossain&custom_title=Weekly%20Coding%20Stats&theme=github-light&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
 </div>
+
 
 ---
 
 ### 🧮 Competitive Programming
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=marufhussain745&theme=github_dark&force_username=true" alt="Codeforces Stats"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=marufhussain745&theme=vue&force_username=true" alt="Codeforces Stats"/>
   <br>
-  <img src="https://leetcard.jacoblin.cool/marufhussain745?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/marufhussain745?theme=github_light&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -97,8 +98,9 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-hossain74&bg_color=0D1117&color=00FF00&line=FF0000&point=00FF00&area=false&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-hossain74&theme=vue&hide_border=true&area=false" alt="Activity Graph"/>
 </div>
+
 
 ---
 
@@ -131,7 +133,7 @@
 ## 🔥 Streak & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-hossain74&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-hossain74&theme=vue" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
