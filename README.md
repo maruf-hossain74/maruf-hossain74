@@ -82,13 +82,13 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/iframe/5903c8067371" target="blank">
-    <img src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_Solving_intermediate.png" height="200" width="300" alt="Problem_Solving_Intermediate"/>
+    <img src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_Solving_intermediate.png" height="150" width="225" alt="Problem_Solving_Intermediate"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/5903c8067371" target="blank">
-    <img src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_solving(Basic).png" height="200" width="300" alt="Problem_Solving_Basic"/>
+    <img src="https://github.com/maruf-hossain74/Achivements/blob/main/Problem_solving(Basic).png" height="150" width="225" alt="Problem_Solving_Basic"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/d4870fb8a508" target="blank">
-    <img src="https://github.com/maruf-hossain74/image-share/blob/main/Java_Basic_Certificate.png" height="200" width="300" alt="Java_Basic"/>
+    <img src="https://github.com/maruf-hossain74/image-share/blob/main/Java_Basic_Certificate.png" height="150" width="225" alt="Java_Basic"/>
   </a>
 </p>
 
