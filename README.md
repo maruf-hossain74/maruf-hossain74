@@ -42,43 +42,23 @@
 
 ---
 
-### 🧰 Languages and Tools
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer" title="Arduino">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
+### 🧰 Languages, Tools & Databases
 
-  <!-- ADDED: HTML, CSS, JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
+<div align="center">
+  
+| 🧠 Programming Languages |
+|---|
+|<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> </a> <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/> </a> <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> </a> <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer" title="PHP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/> </a> </p>|
 
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-</p>
+| ⚙️ Tools & Technologies |
+|---|
+| <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer" title="Arduino"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/> </a> <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> </a> <a href="https://www.apachefriends.org/" target="_blank" rel="noopener noreferrer" title="XAMPP"> <img src="https://a.fsdn.com/allura/p/xampp/icon?1599843055?&w=135" width="40" height="40" alt="XAMPP"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="Visual Studio Code"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer" title="Sublime Text"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="40" height="40" alt="Sublime Text"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank" rel="noopener noreferrer" title="Notepad++"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05IJvkhGkjvlLnLohk0O9b9cqh2KMqqMB9w&s" width="40" height="40" alt="Notepad++"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" title="Postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer" title="Canva"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpJ8UFG03-e_wuIAfqnNlnVzUDZ-4Uxxwiw&s" width="40" height="40" alt="Canva"/> </a> </p> |
 
+| 🗄️ Databases |
+|---|
+|<p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> </a> <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer" title="SQLite"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/> </a> </p>|
+
+</div>
 
 ---
 
