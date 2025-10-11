@@ -125,7 +125,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maruf-hossain74&theme=flat&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maruf-hossain74&theme=vue&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
