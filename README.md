@@ -43,16 +43,42 @@
 ---
 
 ### 🧰 Languages and Tools
-
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer" title="Arduino">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer" title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  </a>
+
+  <!-- ADDED: HTML, CSS, JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
 </p>
+
 
 ---
 
@@ -97,13 +123,40 @@
 ---
 
 ### 📚 GitHub Stats
+<p align="center">
+  <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-hossain74&theme=github" alt="Profile Details" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-hossain74&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=maruf-hossain74" alt="GitHub Trophies"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-hossain74&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maruf-hossain74&theme=github" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruf-hossain74&theme=github" alt="Most Commit Language" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-hossain74&theme=github" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruf-hossain74&theme=github&utcOffset=6" alt="Productive Time" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maruf-hossain74&theme=flat&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔥 Streak & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-hossain74&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-hossain74&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
 
 ---
