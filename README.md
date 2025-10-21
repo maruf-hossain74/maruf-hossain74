@@ -63,13 +63,12 @@
 ---
 
 ### ⏱️ Wakatime Stats
-
 <div align="center">
   <a href="https://wakatime.com/@maruf_hossain">
-    <img src="https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg?style=flat-square" alt="WakaTime Badge"/>
+    <img src="https://wakatime.com/badge/user/2412d7ac-cf43-4bad-8377-7141cb705250.svg?style=flat-square" alt="WakaTime Badge"/>
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maruf_hossain&custom_title=Weekly%20Coding%20Stats&theme=github-light&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maruf_hossain&custom_title=Weekly%20Coding%20Stats&theme=vue&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
 </div>
 
 
