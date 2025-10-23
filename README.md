@@ -56,7 +56,7 @@
 
 | 🗄️ Databases |
 |---|
-|<p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> </a> <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer" title="SQLite"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/> </a> </p>|
+|<p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> </a>  </p>|
 
 </div>
 
