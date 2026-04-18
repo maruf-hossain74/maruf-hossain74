@@ -11,8 +11,8 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently learning **Advanced Algorithms** and solving problems from different online judges.  
-- 💬 Ask me about **C / C++ / Python / Java**  
+- 🌱 I’m currently learning **Advanced Algorithms and MERN Stack** and solving problems from different online judges.  
+- 💬 Ask me about **C++ / MERN Stack**  
 - 📫 How to reach me → **marufhussain745@gmail.com**
 
 ---
